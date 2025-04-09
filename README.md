@@ -92,5 +92,3 @@ Built with ❤️ by **[Sanskriti Yadav](https://github.com/sanskrity3003)**
 If you liked this project, give it a ⭐ and share your feedback!
 
 ---
-
-Would you like a badge (like `made with Streamlit`) or a banner image for your README too? I can design one for you!
