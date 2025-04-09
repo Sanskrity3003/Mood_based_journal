@@ -2,7 +2,7 @@
 
 A **simple yet powerful Streamlit app** that helps you log your mood daily and receive a personalized **music + motivational quote** suggestion. It also tracks your emotional trends visually using Plotly — turning self-care into a habit. 💚
 
-![App Preview](https://user-images.githubusercontent.com/placeholder/app-preview.png) <!-- Optional if you have a screenshot -->
+
 
 ---
 
