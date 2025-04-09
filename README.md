@@ -29,11 +29,6 @@ A **simple yet powerful Streamlit app** that helps you log your mood daily and r
 
 ---
 
-## 📸 Screenshots
-
-> *(Include screenshots of: mood logging interface, graph, and full layout)*
-
----
 
 ## 📂 Project Structure
 
