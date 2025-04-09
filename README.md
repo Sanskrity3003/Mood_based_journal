@@ -72,7 +72,7 @@ The app will open in your browser at `http://localhost:8501`
 ## 🌐 Live App
 
 Access the live app here:  
-**🔗 [mood-journal.streamlit.app]([https://moodbasedjournal-jrnra6vqwupn4tgenlseq7.streamlit.app/])**
+**🔗 [mood-journal.streamlit.app](https://moodbasedjournal-jrnra6vqwupn4tgenlseq7.streamlit.app/)**
 
 ---
 
