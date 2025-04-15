@@ -1,3 +1,5 @@
 streamlit
-plotly
+spotipy
 pandas
+plotly
+nltk
