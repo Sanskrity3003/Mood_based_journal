@@ -69,13 +69,11 @@ mood_journal/
 ## 🌐 **Live App**
 
 Access the live app here:  
-🔗 [mood-journal.streamlit.app](https://mood-journal.streamlit.app)
+🔗 [mood-journal.streamlit.app]([https://mood-journal.streamlit.app](https://moodbasedjournal-jrnra6vqwupn4tgenlseq7.streamlit.app/))
 
 ## ✨ **Future Ideas**
 
-- 🎧 **Integrate with Spotify API** to play actual songs based on mood.
 - 📬 **Daily email reminders** to log your mood and stay motivated.
-- 🧠 **Sentiment analysis** from user-written journal entries for better mood detection.
 - ☁️ Move from **CSV to Firebase/Google Sheets** for cloud logging.
 - 📱 Mobile app integration for better accessibility.
 
