@@ -69,7 +69,7 @@ mood_journal/
 ## 🌐 **Live App**
 
 Access the live app here:  
-🔗 [mood-journal.streamlit.app]([https://mood-journal.streamlit.app](https://moodbasedjournal-jrnra6vqwupn4tgenlseq7.streamlit.app/))
+🔗 [mood-journal.streamlit.app](https://mood-journal.streamlit.app](https://moodbasedjournal-jrnra6vqwupn4tgenlseq7.streamlit.app/)
 
 ## ✨ **Future Ideas**
 
